@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryane Mwende</h1>
 <h3 align="center">I am a software developer currently enrolled in ALX</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryanemwende&label=Profile%20views&color=0e75b6&style=flat" alt="maryanemwende" /> </p>
 

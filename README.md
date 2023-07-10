@@ -1,4 +1,3 @@
-![MasterHead](./https://leviarista.github.io/github-profile-header-generator/images/decorations/my-octocat.png)
 <h1 align="center">Hi 👋, I'm Maryane Mwende</h1>
 <h3 align="center">I am a software developer currently enrolled in ALX</h3>
 
